@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.v(TAG, "Prod");
         Log.v(TAG, "Stash");
         Log.v(TAG, "Branch jira");
+        Log.v(TAG, "Delete");
+
     }
 }
