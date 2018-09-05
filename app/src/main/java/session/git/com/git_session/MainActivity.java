@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.v(TAG, "onCreate");
         Log.v(TAG, "Dev");
+        Log.v(TAG, "Prod");
+        Log.v(TAG, "Stash");
+        Log.v(TAG, "Branch jira");
+        Log.v(TAG, "New");
     }
 }
